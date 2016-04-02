@@ -1,0 +1,7 @@
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\bin\Debug\ClashRoyaleProxy.exe.config
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\bin\Debug\ClashRoyaleProxy.exe
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\bin\Debug\ClashRoyaleProxy.pdb
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\bin\Debug\Sodium.dll
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\obj\Debug\ClashRoyaleProxy.csprojResolveAssemblyReference.cache
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\obj\Debug\ClashRoyaleProxy.exe
+D:\Development\ClashRoyaleProxy\ClashRoyaleProxy\obj\Debug\ClashRoyaleProxy.pdb
